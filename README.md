@@ -1,6 +1,6 @@
 # Página de exemplo
 
-Página estática, fora do git.
+Página estática feita para demonstrar, ao vivo, como relatar um problema de tela.
 
 ```
 index.html        a lista das partes da tela, na ordem em que aparecem
@@ -24,8 +24,8 @@ Para testar no computador: `python3 -m http.server 4120` dentro da pasta.
 ## O que não funciona
 
 1. "Começar grátis" não responde.
-2. Em Preços, "Anual" mostra R$ NaN.
-3. Em Preços, "Escolher" diz "Plano undefined escolhido".
+2. Em Planos, "Anual" mostra R$ NaN.
+3. Em Planos, "Escolher" diz "Plano undefined escolhido".
 4. O contato sempre mostra "Erro 500: falha interna do servidor".
 5. Em "Agendar demonstração", o × não fecha (só a tecla Esc).
 6. "Confirmar horário" sempre mostra "Nossa agenda tirou férias. Erro 500".
