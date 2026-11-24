@@ -4,7 +4,8 @@ Página estática feita para demonstrar, ao vivo, como relatar um problema de te
 
 ```
 index.html        a lista das partes da tela, na ordem em que aparecem
-estilo.css        o visual
+estilo.css        o visual, claro ou escuro conforme o tema do sistema
+icone.svg         o ícone da aba e do topo
 app.js            carrega as partes e liga os botões
 componentes/      uma parte da tela por arquivo
   topo.html         marca, menu e "Agendar demonstração"
